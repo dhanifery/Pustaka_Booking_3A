@@ -7,7 +7,6 @@
       <p>
          Alamat   : Jl. Inpres Gg iklas
       </p>
-
    </div>
 
 </section>
