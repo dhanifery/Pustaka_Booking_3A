@@ -6,7 +6,7 @@
    </head>
    <body>
       <form action="<?=base_url('form/aksi');?>" method="post">
-         <h1>Membuat Form Validation CODEIGNITER</h1>
+         <h1>Membuat Form Validation</h1>
 
          <!--form nama-->
          <label for="">Nama</label><br>
